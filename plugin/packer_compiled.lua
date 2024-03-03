@@ -215,6 +215,11 @@ _G.packer_plugins = {
     path = "/home/burnchi/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
     url = "https://github.com/akinsho/toggleterm.nvim"
   },
+  ["typescript-tools.nvim"] = {
+    loaded = true,
+    path = "/home/burnchi/.local/share/nvim/site/pack/packer/start/typescript-tools.nvim",
+    url = "https://github.com/pmizio/typescript-tools.nvim"
+  },
   ["vim-tmux-navigator"] = {
     loaded = true,
     path = "/home/burnchi/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",

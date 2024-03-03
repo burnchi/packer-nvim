@@ -81,6 +81,9 @@ return require('packer').startup(function(use)
   -- git
   use "kdheepak/lazygit.nvim"
 
+  -- typescript lsp
+  use "pmizio/typescript-tools.nvim"
+
   if packer_bootstrap then
     require('packer').sync()
   end
